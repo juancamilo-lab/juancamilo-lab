@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juancamilo-lab
-- 👀 I’m interested in Product/Project/Program_Management and AI/ML/DL.
-- 🌱 I’m currently learning SQL.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me, +573183380129, 96.jclm@gmail.com.
+- 👋 Hi, I’m Juan.
+- 🌱 I’m a Fraud Data Analyst @ N26.
+- 👀 I’m interested in Data & ML Engineering.
+- 💞️ I love making data useful.
+- 📫 How to reach me, 96.jclm@gmail.com.
 
 <!---
 juancamilo-lab/juancamilo-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
